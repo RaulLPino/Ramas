@@ -1,3 +1,5 @@
 Hola
+Nueva modificación desde rama1
 mundo
-rama main
+Conflicto
+Modificación desde rama1
